@@ -17,7 +17,11 @@ A procedural tree generation tool built with **Python and Autodesk Maya**. The t
 
 ## Demo
 
-TODO: Upload video
+
+
+Uploading TreeDemoLow.mp4…
+
+
 
 ## Purpose
 
