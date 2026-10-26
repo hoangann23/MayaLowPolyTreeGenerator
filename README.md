@@ -19,6 +19,9 @@ A procedural tree generation tool built with **Python and Autodesk Maya**. The t
 
 ![Demo Video](./TreeDemoLow.mp4)
 
+<img width="1259" height="696" alt="image" src="https://github.com/user-attachments/assets/4e2e907c-7563-437d-802a-97ce9d3cd3c5" />
+
+
 ## Purpose
 
 This project explores procedural modeling, recursive algorithms, and artist-controllable tool development for 3D animation workflows.
